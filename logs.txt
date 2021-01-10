@@ -1,0 +1,120 @@
+第1局程序运行884.4秒后出错, 错误信息为: 
+
+第1局程序运行689.7秒后出错, 错误信息为: 无效目标平台编号3229
+
+第2局程序运行711.0秒后出错, 错误信息为: 无效目标平台编号467
+
+第1局程序运行851.4秒后出错, 错误信息为: 无效目标平台编号3607
+
+第1局程序运行693.9秒后出错, 错误信息为: 无效目标平台编号3214
+
+第1局程序运行8012.4秒后出错, 错误信息为: 'unit'
+
+第1局程序运行19.8秒后出错, 错误信息为: _ship_areapatrol() takes 3 positional arguments but 4 were given
+
+第1局程序运行20.4秒后出错, 错误信息为: _ship_areapatrol() takes 3 positional arguments but 4 were given
+
+第1局程序运行59.1秒后出错, 错误信息为: 'RedRuleAgent' object has no attribute 'takeoff_targethunt_params'
+
+第1局程序运行69.0秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行68.1秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行67.2秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行66.9秒后出错, 错误信息为: 'point_x'
+
+第2局程序运行63.6秒后出错, 错误信息为: 'point_x'
+
+第3局程序运行66.3秒后出错, 错误信息为: 'point_x'
+
+第4局程序运行68.4秒后出错, 错误信息为: 'point_x'
+
+第5局程序运行65.1秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行66.6秒后出错, 错误信息为: 'point_x'
+
+第2局程序运行66.0秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行403.8秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行69.9秒后出错, 错误信息为: 'point_x'
+
+第2局程序运行71.7秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行20.7秒后出错, 错误信息为: '170'
+
+第2局程序运行19.8秒后出错, 错误信息为: '170'
+
+第1局程序运行21.9秒后出错, 错误信息为: '170'
+
+第2局程序运行19.8秒后出错, 错误信息为: '170'
+
+第3局程序运行20.7秒后出错, 错误信息为: '170'
+
+第1局程序运行21.3秒后出错, 错误信息为: '170'
+
+第2局程序运行19.8秒后出错, 错误信息为: '170'
+
+第1局程序运行21.6秒后出错, 错误信息为: '170'
+
+第2局程序运行19.8秒后出错, 错误信息为: '170'
+
+第1局程序运行19.8秒后出错, 错误信息为: '170'
+
+第2局程序运行414.0秒后出错, 错误信息为: 
+
+第1局程序运行20.4秒后出错, 错误信息为: '170'
+
+第2局程序运行20.7秒后出错, 错误信息为: '170'
+
+第1局程序运行20.4秒后出错, 错误信息为: '170'
+
+第1局程序运行19.8秒后出错, 错误信息为: '170'
+
+第1局程序运行476.4秒后出错, 错误信息为: '170'
+
+第1局程序运行466.2秒后出错, 错误信息为: '170'
+
+第1局程序运行1494.0秒后出错, 错误信息为: string indices must be integers
+
+第1局程序运行1342.8秒后出错, 错误信息为: string indices must be integers
+
+第1局程序运行1333.2秒后出错, 错误信息为: string indices must be integers
+
+第1局程序运行69.6秒后出错, 错误信息为: local variable 'attackFrigateTime' referenced before assignment
+
+第1局程序运行69.9秒后出错, 错误信息为: local variable 'attackFrigateTime' referenced before assignment
+
+第1局程序运行2061.0秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行1611.3秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行387.3秒后出错, 错误信息为: must be str, not int
+
+第1局程序运行399.6秒后出错, 错误信息为: must be str, not int
+
+第1局程序运行49.2秒后出错, 错误信息为: connection closed by peer
+
+第1局程序运行0秒后出错, 错误信息为: connection closed by peer
+
+第1局程序运行3661.2秒后出错, 错误信息为: 'point_x'
+
+第1局程序运行40.8秒后出错, 错误信息为: 起飞数量4大于机场可起飞数量0
+
+第1局程序运行904.8秒后出错, 错误信息为: connection closed by peer
+
+第1局程序运行1022.1秒后出错, 错误信息为: connection closed by peer
+
+第1局程序运行34.5秒后出错, 错误信息为: list indices must be integers or slices, not str
+
+第1局程序运行34.5秒后出错, 错误信息为: list indices must be integers or slices, not str
+
+第1局程序运行33.9秒后出错, 错误信息为: list indices must be integers or slices, not str
+
+第1局程序运行35.1秒后出错, 错误信息为: list indices must be integers or slices, not str
+
+第1局程序运行615.3秒后出错, 错误信息为: 无效执行主体编号20001
+
+第1局程序运行19.8秒后出错, 错误信息为: 'BlueRuleAgent' object has no attribute '_ship_areapatrol'
+
